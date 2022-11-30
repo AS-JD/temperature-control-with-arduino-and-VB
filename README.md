@@ -6,6 +6,9 @@ To play the game save the following files in the same directory.
 
 -Form1.vb: visual vasic code.
 
+-New Project.pdsprj :simulation with isis.
+
+-sketch_aug11a.ino : code arduino 
 
 In this project I used the LM35 temperature-sensor for measurements. 
 Data is read through Serial Port 
